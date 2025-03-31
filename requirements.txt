@@ -1,0 +1,8 @@
+bs4
+colorama
+csv
+fake_useragent
+pandas
+re 
+requests
+stem
