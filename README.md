@@ -53,6 +53,7 @@ Follow these steps to install and run the scraper:
     sudo systemctl status tor
     ```
 Ensure that tor is installed on your system and its status is active.
+
 4. **Run the Scraper**:
     ```bash
     sudo python3 scrapper.py <search_query>
