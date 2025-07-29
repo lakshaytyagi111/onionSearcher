@@ -5,4 +5,5 @@ fake_useragent
 pandas
 re 
 requests
+requests[socks]
 stem
